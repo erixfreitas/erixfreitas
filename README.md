@@ -1,5 +1,7 @@
 <h2 align="left">Olá! Sejam bem-vindos</h2>
 
+Atualmente, trabalho como Analista de Dados, utilizando ferramentas como Power BI e Excel. Estou em transição de carreira para a área de Ciência de Dados e tenho aplicado conhecimentos em SQL e Python no desenvolvimento de projetos voltados para essa área
+
 ###
 
 <div align="center">
